@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning basic coding
 - 💞️ I’m looking to collaborate on school project
 - 📫 How to reach me in the real world
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: Dino/Saur
 - ⚡ Fun fact: Dinosaurs
 
 <!---
