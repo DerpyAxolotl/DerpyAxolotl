@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DerpyAxolotl
+  - 👋 Hi, I’m @DerpyAxolotl
 - 👀 I’m interested in Dinosaurs
 - 🌱 I’m currently learning basic coding
 - 💞️ I’m looking to collaborate on school project
